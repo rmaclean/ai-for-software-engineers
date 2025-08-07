@@ -2,7 +2,7 @@
 
 ## Terminology
 
-1. AI is what it
+1. [AI](https://youtu.be/62acV11LwYw?t=1644) - is what you call your technology when it doesn't work, because when it does work, it gets a new name; it becomes image recognition, or translators, or large language models.
 2. [Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot) - systems that statistically mimic text without real understanding
 
 ## Against the idea AI can replace developers
