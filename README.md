@@ -6,7 +6,7 @@
 2. [Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot) - systems that statistically mimic text without real understanding
 3. [Centaurs](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs) - people assisted by machines
 4. [Reverse-Centaurs](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs) - eople conscripted into assisting machines
-5. [Accountability sinks] - structures that absorb or obscure the consequences of a decision such that no one can be held directly accountable for it
+5. [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) - structures that absorb or obscure the consequences of a decision such that no one can be held directly accountable for it
 
 
 ## Against the idea AI can replace developers
