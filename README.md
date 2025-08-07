@@ -1,5 +1,8 @@
 # AI Information for Software Developers
 
+Welcome to a resource for things about AI as they relate to software developers, and mostly if they will still have jobs in future. 
+Want to add something [pull requests are wonderful](https://github.com/rmaclean/ai-for-software-engineers/pulls), or start a [discussion](https://github.com/rmaclean/ai-for-software-engineers/discussions) if you have ideas, or concerns. 
+
 ## Terminology
 
 1. [AI](https://youtu.be/62acV11LwYw?t=1644) - is what you call your technology when it doesn't work, because when it does work, it gets a new name; it becomes image recognition, or translators, or large language models.
@@ -42,3 +45,4 @@
 2. https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/
 3. https://www.anthropic.com/research/project-vend-1
 4. https://tech.co/news/list-ai-failures-mistakes-errors
+![](https://github.com/user-attachments/assets/1f5c4b69-f89e-468e-985b-da6c6f219404)
