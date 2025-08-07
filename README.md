@@ -4,10 +4,14 @@
 
 1. [AI](https://youtu.be/62acV11LwYw?t=1644) - is what you call your technology when it doesn't work, because when it does work, it gets a new name; it becomes image recognition, or translators, or large language models.
 2. [Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot) - systems that statistically mimic text without real understanding
+3. [Centaurs](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs) - people assisted by machines
+4. [Reverse-Centaurs](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs) - eople conscripted into assisting machines
+5. [Accountability sinks] - structures that absorb or obscure the consequences of a decision such that no one can be held directly accountable for it
+
 
 ## Against the idea AI can replace developers
 
-1. [No, AI is not Making Engineers 10x as Productive](9https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
+1. [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 2. [In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen](https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/)
 3. [AI software assistants make the hardest kinds of bugs to spot](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs)
 4. [Bragging about replacing coders with AI is a sales-pitch](https://pluralistic.net/2025/08/05/ex-princes-of-labor/#hyper-criti-hype)
