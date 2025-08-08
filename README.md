@@ -10,6 +10,7 @@ Want to add something [pull requests are wonderful](https://github.com/rmaclean/
 3. [Centaurs](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs) - people assisted by machines
 4. [Reverse-Centaurs](https://pluralistic.net/2025/08/04/bad-vibe-coding/#maximally-codelike-bugs) - people conscripted into assisting machines
 5. [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) - structures that absorb or obscure the consequences of a decision such that no one can be held directly accountable for it
+6. [HITL](https://en.wikipedia.org/wiki/Human-in-the-loop#Machine_learning) - Human in the Loop. In the sense of humans aiding the computer in making the correct decisions and reviewing the work of the AI. 
 
 
 ## Against the idea AI can replace developers
