@@ -34,6 +34,7 @@ Want to add something [pull requests are wonderful](https://github.com/rmaclean/
 1. [Developers, Reinvented](https://ashtom.github.io/developers-reinvented)
 2. [Understanding what AI means to consumers](https://blogs.windows.com/windowsexperience/2025/07/22/understanding-what-ai-means-to-consumers/)
 3. [Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability](https://arxiv.org/abs/2507.00788)
+4. [Replacing developers with GPUs](https://ayende.com/blog/203012-A/replacing-developers-with-gpus)
 
 ## AI is costing way more than we pay
 
