@@ -28,13 +28,15 @@ Want to add something [pull requests are wonderful](https://github.com/rmaclean/
 11. [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 12. [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 13. [Replacing developers with GPUs](https://ayende.com/blog/203012-A/replacing-developers-with-gpus)
-
+14. [Vibe Coding Cleanup Specialist is a job role](https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/)
+15. [OpenAI via research paper determines LLMs will always hallucinate](https://openai.com/index/why-language-models-hallucinate/)
 
 ## For the idea AI can replace developers
 
 1. [Developers, Reinvented](https://ashtom.github.io/developers-reinvented)
 2. [Understanding what AI means to consumers](https://blogs.windows.com/windowsexperience/2025/07/22/understanding-what-ai-means-to-consumers/)
 3. [Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability](https://arxiv.org/abs/2507.00788)
+4. [Replacing developers with GPUs](https://ayende.com/blog/203012-A/replacing-developers-with-gpus)
 
 ## AI is costing way more than we pay
 
