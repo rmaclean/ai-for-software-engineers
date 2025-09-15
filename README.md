@@ -27,7 +27,8 @@ Want to add something [pull requests are wonderful](https://github.com/rmaclean/
 10. [Not So Fast: AI Coding Tools Can Actually Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 11. [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 12. [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
-
+13. [Vibe Coding Cleanup Specialist is a job role](https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/)
+14. [OpenAI via research paper determines LLMs will always hallucinate](https://openai.com/index/why-language-models-hallucinate/)
 
 ## For the idea AI can replace developers
 
