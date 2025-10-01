@@ -30,6 +30,7 @@ Want to add something [pull requests are wonderful](https://github.com/rmaclean/
 13. [Replacing developers with GPUs](https://ayende.com/blog/203012-A/replacing-developers-with-gpus)
 14. [Vibe Coding Cleanup Specialist is a job role](https://www.404media.co/the-software-engineers-paid-to-fix-vibe-coded-messes/)
 15. [OpenAI via research paper determines LLMs will always hallucinate](https://openai.com/index/why-language-models-hallucinate/)
+16. [Report Finds LLMs Not Yet Ready to Replace SREs in Incident Management](https://www.infoq.com/news/2025/09/clickhouse-llm-sre-report/)
 
 ## For the idea AI can replace developers
 
